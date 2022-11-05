@@ -10,8 +10,17 @@
   },
   "TRIM": {
     "desc": {
-      "code": "P29",
-      "text": "AMG Line interior"
+      "code": agt lim n   dg  -552.21
+       ' 
+        sssr o bvnnnc   qwe
+        
+        
+         yrte-453666
+          vvvc engine solvency accuracy 5541 -
+          '';5 bhbh - accurate progrsammmme runs under jjjuab -    521.
+          
+          
+          
     },
     "additionalProp1": "https://assets.oneweb.mercedes-benz.com/bbd/images/v1/4255/d/ac/a06e21488999f896cf5995fa3d3f7c9b74a65.jpg",
     "additionalProp2": "https://assets.oneweb.mercedes-benz.com/bbd/images/v1/4255/d/ac/a06e21488999f896cf5995fa3d3f7c9b74a65.jpg",
@@ -20,6 +29,8 @@
   "RIM": {
     "desc": {
       "code": "P29",
+      
+      
       "text": "AMG Line interior"
     },
     "additionalProp1": "https://assets.oneweb.mercedes-benz.com/bbd/images/v1/4255/d/ac/a06e21488999f896cf5995fa3d3f7c9b74a65.jpg",
@@ -67,9 +78,27 @@
       },
       "additionalProp3": {
         "urls": {}
-      }
-    },
-    "additionalProp2": {
+      }"
+      zshhhydbydnngdb
+      bbv 
+       an acciderate interminate solvency has 521-889- n b
+       
+       	
+Option code and description in the requested locale.
+
+code	string
+minLength: 3
+maxLength: 4
+example: P29
+Option code
+
+text	string
+maxLength: 80
+example: AMG Line interior
+Description of an option code in the requested locale. Default language is used if requested locale is not available.
+
+}
+       bbv jjhat
       "codeDesc": {
         "code": "P29",
         "text": "AMG Line interior"
@@ -77,7 +106,8 @@
       "additionalProp1": {
         "urls": {}
       },
-      "additionalProp2": {
+      "additionalProp2": }
+       v   b avffa= 
         "urls": {}
       },
       "additionalProp3": {
